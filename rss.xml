@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0">
+ <channel>
+ <item>
+<title>Dobrodošli na sajt BAMBONINI</title>
+<description>Uživajte u ljubavi i vernosti</description>
+<link>index.html</link>
+</item>
+<item>
+<title>Procitajte nekoliko zanimljivosti</title>
+<description>Nemoguće ostati ravnodušan</description>
+<link>zanimljivosti.html</link>
+</item>
+</channel>
+</rss>
